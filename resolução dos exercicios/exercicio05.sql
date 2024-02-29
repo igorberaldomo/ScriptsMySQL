@@ -1,0 +1,1 @@
+select* from gafanhotos where sexo ='M' and peso < '100' and nome like'%_Silva%';
