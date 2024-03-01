@@ -1,0 +1,1 @@
+select nacionalidade, count(nacionalidade) from gafanhotos where nacionalidade not like 'Brasil' group by nacionalidade having count(nacionalidade)> '3' order by count(nacionalidade);

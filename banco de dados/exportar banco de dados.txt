@@ -1,0 +1,14 @@
+Para exportar um banco de dados no MySQL   :
+
+Criando o backup
+	1º inicie o banco de dados
+	2º selecione o banco de dados:
+	3º Na aba superior clique em server
+	4º clique na opção ‘data export’
+	5º seleciona as tabelas que você quer exportar
+	6º selecione se você quer a estrutura e os dados, somente a estrutura ou somente os dados
+	7º selecione se você quer em um arquivo único ou do folder inteiro
+		7.1 marque ‘include create schema’ ou na hora de transferir o banco de dados você terá que criar o banco de dados manualmente
+
+	8º clique em ‘start export’
+	9º um pacote de backup vai ser gerado, ele é chamado de dump

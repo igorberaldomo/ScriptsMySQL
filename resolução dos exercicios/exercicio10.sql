@@ -1,0 +1,1 @@
+select profissao, count(profissao) from gafanhotos group by profissao;
