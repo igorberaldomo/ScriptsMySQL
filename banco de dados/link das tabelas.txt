@@ -1,1 +1,0 @@
- as tabelas usadas foi obtida no curso de MySQL do Curso em Video no link:https://www.cursoemvideo.com/curso/mysql/aulas/banco-de-dados/modulos/exercicio-para-curso-de-mysql/
