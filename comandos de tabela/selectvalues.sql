@@ -1,1 +1,2 @@
+/*seleciona todos os valores dentro de uma faixa*/
 select colunaoriginal, count(colunaoriginal) from teste where colunasecundária > '2'group by  colunaoriginal having  colunaoriginal >(select avg(colunaoriginal) from teste); 

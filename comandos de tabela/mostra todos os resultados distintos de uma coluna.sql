@@ -1,1 +1,0 @@
-select distinct texto from teste

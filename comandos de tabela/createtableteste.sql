@@ -1,3 +1,4 @@
+/*cria tabela teste*/
 create table teste(
 	idteste int not null auto_increment,
 	colunaoriginal int not null,

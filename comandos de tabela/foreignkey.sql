@@ -1,3 +1,4 @@
+/*recebendo uma chave estrangeira*/
 alter table teste add column variavelestrangeira int;
 
 alter table teste add constraint foreign key(variavelestrangeira) references pessoas(id);
