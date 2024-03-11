@@ -1,0 +1,1 @@
+select colunaoriginal, colunasecundária from teste order by colunaoriginal

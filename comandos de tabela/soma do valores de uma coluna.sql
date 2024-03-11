@@ -1,0 +1,1 @@
+select sum(colunaoriginal) from teste

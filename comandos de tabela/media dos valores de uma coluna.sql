@@ -1,0 +1,1 @@
+select avg(colunaoriginal) from teste

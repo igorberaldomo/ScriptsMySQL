@@ -1,0 +1,1 @@
+select colunaoriginal, count(colunaoriginal) from teste group by colunaoriginal; 
